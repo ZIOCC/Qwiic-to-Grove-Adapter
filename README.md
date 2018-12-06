@@ -1,0 +1,1 @@
+# Qwiic-to-Grove-Adapter
